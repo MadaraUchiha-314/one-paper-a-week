@@ -1,6 +1,7 @@
 # one-paper-a-week
 Trying to read one paper a week.
 
+- [Chain of Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
 - [Automatic Summarization of Conversational Multi-Party Speech](https://www.aaai.org/Papers/AAAI/2006/AAAI06-335.pdf)
 - [The NeBuLa RPC-Optimized Architecture](http://infoscience.epfl.ch/record/277391/files/The%20NeBuLa%20RPC-Optimized%20Architecture.pdf)
